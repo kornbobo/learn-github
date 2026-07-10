@@ -1,2 +1,3 @@
-# learn-github
-My first GitHub repository
+# Hello GitHub
+My name is Bo IT-BTNC
+Learning GitHub
